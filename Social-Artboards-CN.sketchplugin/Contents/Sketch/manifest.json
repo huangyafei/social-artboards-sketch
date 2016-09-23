@@ -1,0 +1,25 @@
+{
+  "name": "Social Artboads CN",
+  "description": "Artboard presets for Weibo, WeChat and such",
+  "author": "Yafei Huang",
+  "homepage": "https://github.com/huangyafei/social-artboards-sketch-cn",
+  "version": 1.0,
+  "identifier": "com.github.huangyafei.social-artboards-sketch-cn",
+  "updateURL": "https://github.com/huangyafei/social-artboards-sketch-cn",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Install Social Artboards CN",
+      "identifier": "show-info",
+      "shortcut": "ctrl alt i",
+      "script": "Social-Artboards-CN.coscript",
+      "handler": "installArtboards"
+    },
+  ],
+  "menu": {
+    "items": [
+      "show-info",
+    ]
+  }
+}

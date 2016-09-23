@@ -1,16 +1,15 @@
 /**
- * Social Artboards 1.0
+ * Social Artboards CN 1.0
  *
- * Copyright © 2015 Herr Helms https://github.com/herrhelms
+ * Copyright © 2015 Yafei Huang https://github.com/huangyafei
  * and licenced under the MIT licence. All rights not explicitly
  * granted in the MIT license are reserved. See the included
  * LICENSE file for more details.
  *
- * https://github.com/herrhelms/
- * https://twitter.com/herrhelms
+ * https://github.com/huangyafei
  */
 
-var pluginName = 'Social Artboards'
+var pluginName = 'Social Artboards CN'
 var fileManager = [NSFileManager defaultManager]
 var dataarray = [NSMutableArray alloc]
 
