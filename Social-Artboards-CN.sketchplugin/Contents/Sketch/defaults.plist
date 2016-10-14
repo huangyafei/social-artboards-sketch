@@ -9,6 +9,54 @@
     <array>
       <dict>
         <key>name</key>
+        <string>微博头条文章封面</string>
+        <key>width</key>
+        <integer>1000</integer>
+        <key>height</key>
+        <integer>562</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>微博主页封面（桌面版）</string>
+        <key>width</key>
+        <integer>980</integer>
+        <key>height</key>
+        <integer>300</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>微博头像</string>
+        <key>width</key>
+        <integer>180</integer>
+        <key>height</key>
+        <integer>180</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>微信公众号图文消息头条封面</string>
+        <key>width</key>
+        <integer>900</integer>
+        <key>height</key>
+        <integer>500</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>微信公众号图文消息小封面</string>
+        <key>width</key>
+        <integer>200</integer>
+        <key>height</key>
+        <integer>200</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>微信运动封面</string>
+        <key>width</key>
+        <integer>300</integer>
+        <key>height</key>
+        <integer>480</integer>
+      </dict>
+      <dict>
+        <key>name</key>
         <string>Facebook 封面（桌面端）</string>
         <key>width</key>
         <integer>828</integer>
